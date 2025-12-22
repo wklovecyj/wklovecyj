@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hello！I'm UnderJade
 
-我是UnderJade，我想要更加了解这个世界。
+I want to understand the world and transform the world。
+
 ![snake](https://raw.githubusercontent.com/wklovecyj/wklovecyj/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![snake](https://raw.githubusercontent.com/wklovecyj/wklovecyj/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
