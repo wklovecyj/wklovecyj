@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 我是UnderJade，我想要更加了解这个世界。
+![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
 <!--
 **wklovecyj/wklovecyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
