@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+我是UnderJade，我想要更加了解这个世界。
+
 <!--
 **wklovecyj/wklovecyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
